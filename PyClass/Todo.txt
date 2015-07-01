@@ -1,0 +1,28 @@
+Builtin modules to have in your pocket -- warning: Opinions!
+a. builtins, json, sqlite3, datetime (and friends), random
+b. pprint, csv, os, pdb, unittest
+Builtin modules to know about before long
+a. sys, collections, itertools, functools, timeit, futures
+b. re, decimal (and math friends), string, copy
+-- Pandas, scypy? 
+
+
+vitualenvs
+
+relative imports ??. Need to learn how to import. 
+
+Only import what's necessary David Beazley tutorial. 
+
+webbrowser. import antigrivty
+
+python website search pep08. how to format code. 
+Scientific python community using python 2.
+
+A hitchikers guide to python. 
+
+i'm confused about using cmd, git, and python. which installers use which? 
+	pip is commandline. gitbash is for syncing. 
+
+virtual envr
+
+donation matching? 
