@@ -15,30 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/sarmour/PyClassLessons/course/errors_and_introspection/errors_and_introspection.md",
-			"settings":
-			{
-				"buffer_size": 5355,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "PyClass/ErrorsAndIntrospection.py",
-			"settings":
-			{
-				"buffer_size": 376,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "PyClass/Timeit_Edited.py",
-			"settings":
-			{
-				"buffer_size": 813,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
@@ -64,6 +40,12 @@
 	},
 	"file_history":
 	[
+		"/C/Users/sarmour/PyClassLessons/course/unittest/examples/123.json",
+		"/C/Users/sarmour/PyClassLessons/course/unittest/examples/simpletest.py",
+		"/C/Users/sarmour/PyClassLessons/course/unittest/examples/simpletest2.py",
+		"/C/Users/sarmour/PyClassLessons/course/errors_and_introspection/errors_and_introspection.md",
+		"/C/Users/sarmour/GitHub_Python_Scripts/PyClass/ErrorsAndIntrospection.py",
+		"/C/Users/sarmour/GitHub_Python_Scripts/PyClass/Timeit_Edited.py",
 		"/C/Users/sarmour/PyClassLessons/course/errors_and_introspection/examples/timeit.py",
 		"/C/Users/sarmour/GitHub_Python_Scripts/PyClass/ErrorsAndIntrospection",
 		"/C/Users/sarmour/GitHub_Python_Scripts/PyClass/WorkingwihtLists.py",
@@ -130,91 +112,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/sarmour/PyClassLessons/course/errors_and_introspection/errors_and_introspection.md",
-					"settings":
-					{
-						"buffer_size": 5355,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3039,
-								3039
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 850.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "PyClass/ErrorsAndIntrospection.py",
-					"settings":
-					{
-						"buffer_size": 376,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								20,
-								20
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "PyClass/Timeit_Edited.py",
-					"settings":
-					{
-						"buffer_size": 813,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								813
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 81.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

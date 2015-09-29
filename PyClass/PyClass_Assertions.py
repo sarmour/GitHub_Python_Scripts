@@ -1,3 +1,8 @@
-Assert1 = 1
+assert True
 
-print Assert1 ==2
+try:
+    assert False
+except AssertionError:
+    import sys
+    print sys.exc_info()
+    exit(1)
